@@ -1,0 +1,2 @@
+Here is the build result of openjdk8 zero release. I built the target profiles, and here is just the profile : compact2. This repository is usefull for 2 others github repositories where you can have more information : https://github.com/florian-gauvin/Small-Dockerfile-Ace
+	https://github.com/florian-gauvin/Small-Dockerfile-Felix.git
